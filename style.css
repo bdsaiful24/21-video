@@ -1,0 +1,35 @@
+.banner{
+    background: #feeae8;
+}
+.carousel-item img{
+    width: 200px;
+}
+.banner span{
+    color: #ff136f;
+    display: block;
+}
+.btn{
+    display: inline-block;
+    background: #ff136f;
+    padding: 7px 14px;
+    color: #fff;
+    border-radius: 6px;    
+}
+/* .item-1,.item-2,.item-3{
+    border-radius: 5px;
+} */
+.item-1{
+    background: orange;
+}
+.item-2{
+    background: purple;
+}
+.item-3{
+    background: blue;
+}
+.catagory img{
+    width: 70px;
+}
+.newslatter-section{
+    background: #feeae8;
+}
